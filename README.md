@@ -1,2 +1,2 @@
-var airconditioning = (<b> <i> airconditioning </i> </b>)
+<b> <i> airconditioning </i> </b>
 
