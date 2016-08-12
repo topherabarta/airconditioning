@@ -1,1 +1,1 @@
-<i> <b> airconditioning </b> </i>
+<b> <i> airconditioning </i> </b>
